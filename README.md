@@ -14,8 +14,8 @@
 
 
 ## C Courses 
-1.[C Udemy Course I](https://www.udemy.com/course/c-programming-for-beginners-/learn/lecture/8795390?start=585#overview)
-2.[C Embedded Programming](https://www.udemy.com/course/microcontroller-embedded-c-programming/learn/lecture/16546062?start=15#overview)
+1. [C Udemy Course I](https://www.udemy.com/course/c-programming-for-beginners-/learn/lecture/8795390?start=585#overview)
+2. [C Embedded Programming](https://www.udemy.com/course/microcontroller-embedded-c-programming/learn/lecture/16546062?start=15#overview)
 
 ## Python Courses 
 - need to fill 

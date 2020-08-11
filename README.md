@@ -18,10 +18,14 @@
 2. [C Embedded Programming](https://www.udemy.com/course/microcontroller-embedded-c-programming/learn/lecture/16546062?start=15#overview)
 
 ## Python Courses 
-- need to fill 
+1. [Udemy Python Modern](https://www.udemy.com/course/the-modern-python3-bootcamp/learn/lecture/8975736#overview)
+2. [Python JETBRAINS](https://hyperskill.org/curriculum)
+3. [Python: Crash Course]
+4. [Python: zero to hero]
+5. [Python: Cracking the Code]
 
 ## LT Spice Courses 
-- need to fill 
+1. []
 
 ## Altium Courses 
 - Need to fill 

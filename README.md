@@ -20,9 +20,14 @@
 ## Python Courses 
 1. [Udemy Python Modern](https://www.udemy.com/course/the-modern-python3-bootcamp/learn/lecture/8975736#overview)
 2. [Python JETBRAINS](https://hyperskill.org/curriculum)
-3. [Python: Crash Course]
-4. [Python: zero to hero]
-5. [Python: Cracking the Code]
+3. [Code Academy (Computer Science]
+4. [Code Academy (Data Science)]
+5. [Python: Crash Course]
+6. [Python: zero to hero]
+7. [Python: Cracking the Code]
+
+## Web Design
+1. [Code Academy]
 
 ## LT Spice Courses 
 1. []
